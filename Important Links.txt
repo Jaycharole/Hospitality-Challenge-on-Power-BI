@@ -1,0 +1,7 @@
+Important Links:
+
+Live Dashboard Link: https://app.powerbi.com/view?r=eyJrIjoiOTI2OGMxOGYtYzA0Yi00NDI5LTkyODktZGZkNGZkZGU1NDNhIiwidCI6ImViZGQ0OTRjLTI0Y2MtNDhmYy04NTRmLWNlMmI3ZDBlNDBlYiJ9
+
+GitHub Link: https://github.com/Jaycharole/Hospitality-Challenge-on-Power-BI
+
+
